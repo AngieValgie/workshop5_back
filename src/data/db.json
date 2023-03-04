@@ -11,10 +11,15 @@
   "productos": [
     {
       "id": 0,
+      "type": 0,
       "name": "Pizza a la carlo",
       "price": 15000,
       "reviews": 3,
-      "img": "https://cdn.colombia.com/gastronomia/2011/08/25/pizza-margarita-3684.jpg",
+      "img": [
+        "https://cdn.colombia.com/gastronomia/2011/08/25/pizza-margarita-3684.jpg",
+        "https://www.saborusa.com/ni/wp-content/uploads/sites/19/2019/11/Animate-a-disfrutar-una-deliciosa-pizza-de-salchicha-Foto-destacada.png",
+        "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/03/30/6063031b90a87.r_d.1083-871-0.jpeg"
+      ],
       "comments": [
         {
           "idUser": 0,
@@ -26,9 +31,14 @@
     {
       "id": 1,
       "name": "Pizza a la Alfredo",
+      "type": 0,
       "price": 20000,
       "reviews": 4,
-      "img": "https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.jpg",
+      "img": [
+        "https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.jpg",
+        "https://images.hola.com/imagenes/cocina/recetas/20220208204252/pizza-pepperoni-mozzarella/1-48-890/pepperoni-pizza-abob-t.jpg",
+        "https://radionacional-v3.s3.amazonaws.com/s3fs-public/styles/portadas_relaciona_4_3/public/node/article/field_image/COLP_EXT_111040.jpg?h=3e099002&itok=CDYT_h3S"
+      ],
       "comments": [
         {
           "idUser": 0,
