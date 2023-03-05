@@ -8,6 +8,43 @@
       "img": "https://p4.wallpaperbetter.com/wallpaper/778/599/670/women-model-brunette-long-hair-wallpaper-preview.jpg"
     }
   ],
+  "ofertas": [
+    {
+      "id": 0,
+      "nameOferta": "Cupón para frontEnds",
+      "porcentaje": 45
+    },
+    {
+      "id": 1,
+      "nameOferta": "Cupón hamburguesa",
+      "porcentaje": 30
+    },
+    {
+      "id": 2,
+      "nameOferta": "Cupón comida voladora",
+      "porcentaje": 35
+    },
+    {
+      "id": 3,
+      "nameOferta": "Cupón de la casa",
+      "porcentaje": 50
+    },
+    {
+      "id": 4,
+      "nameOferta": "Cupón más pizza",
+      "porcentaje": 20
+    },
+    {
+      "id": 5,
+      "nameOferta": "Cupón otra véz",
+      "porcentaje": 60
+    },
+    {
+      "id": 6,
+      "nameOferta": "Cupón sencillo",
+      "porcentaje": 20
+    }
+  ],
   "productos": [
     {
       "id": 0,
@@ -15,6 +52,7 @@
       "name": "Pizza a la carlo",
       "price": 15000,
       "reviews": 3,
+      "description": "Pizza Plato de origen italiano, especie de torta elaborada a partir de una masa hecha con harina de trigo, levadura, aceite de oliva, agua, sal y azúcar",
       "img": [
         "https://cdn.colombia.com/gastronomia/2011/08/25/pizza-margarita-3684.jpg",
         "https://www.saborusa.com/ni/wp-content/uploads/sites/19/2019/11/Animate-a-disfrutar-una-deliciosa-pizza-de-salchicha-Foto-destacada.png",
@@ -34,6 +72,7 @@
       "type": 0,
       "price": 20000,
       "reviews": 4,
+      "description": "La pizza a la alfredo es una pizza que contiene una base de queso fundido y tomate que se aliñan con jamón y hojas verdes.​​ ",
       "img": [
         "https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.jpg",
         "https://images.hola.com/imagenes/cocina/recetas/20220208204252/pizza-pepperoni-mozzarella/1-48-890/pepperoni-pizza-abob-t.jpg",
@@ -44,6 +83,46 @@
           "idUser": 0,
           "comment": "Me parecio una pizza una Lokura",
           "starts": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hamburguesa Especial",
+      "type": 1,
+      "price": 20000,
+      "reviews": 4,
+      "description": "La hamburguesa es un producto cárnico, elaborado a partir de carne cortada en cubos, molida y mezclada con otros ingredientes, como condimentos y aditivos alimentarios",
+      "img": [
+        "https://assets.unileversolutions.com/recipes-v2/210995.jpg",
+        "https://cloudfront-us-east-1.images.arcpublishing.com/prisaradioco/LGWVXSGG7JBEDJSAZR5DDQZK64.jpg",
+        "https://recetasdedon.com.mx/wp-content/uploads/2022/06/hamburguesas-historia-caracteristicas-preparacion-y-tipos-640x422.jpg"
+      ],
+      "comments": [
+        {
+          "idUser": 0,
+          "comment": " una Lokura",
+          "starts": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hamburguesa Doble",
+      "type": 1,
+      "price": 20000,
+      "reviews": 4,
+      "description": "Deliciosa hamburguesa de 200 gr en carne de res y pollo, compuesta con queso fundido, lechuga fresca, pepinillos, cebolla en aros, tomate y la salsa especial Kétchup",
+      "img": [
+        "https://d2yoo3qu6vrk5d.cloudfront.net/images/20221024144136/festival-de-hamburguesas-en-bogota-cali-y-mas-cuando-es-y-precios-de-la-comida.jpg",
+        "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/4e4293857c03d819e4ae51de1e86d66a.jpg",
+        "https://www.eluniverso.com/resizer/avJDoOrozRprf6V3mVGUcFjXuJw=/894x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/43U3T4PEX5FMTJ5ZYIYKYIT5SU.JPG"
+      ],
+      "comments": [
+        {
+          "idUser": 0,
+          "comment": " una Lokura",
+          "starts": 3
         }
       ]
     }
