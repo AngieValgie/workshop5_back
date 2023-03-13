@@ -310,7 +310,7 @@
       "description": "Una hamburguesa es un sándwich hecho a base de carne molida o de origen vegetal,​ ",
       "img": [
         "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/4e4293857c03d819e4ae51de1e86d66a.jpg",
-        "https://www.elespectador.com/resizer/BZqku81acRFHG6sYcZBT1JEACjQ=/525x350/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/N5EPKUWMIVH4RCPNDM7OP5OKQQ.jpeg",
+        "https://www.laylita.com/recetas/wp-content/uploads/2021/08/Hamburguesa-de-patacon-receta-500x375.jpg",
         "https://images.ctfassets.net/n7hs0hadu6ro/3cus21kR8h5Oytx2BVPAZY/d13d610a27ade6faaccb0b801da96e5d/hamburguesas_a_domicilio.png?w=1024&h=683&fl=progressive&q=50&fm=jpg"
       ],
       "comments": [
@@ -329,7 +329,7 @@
       "reviews": 20,
       "description": "La pizza Kitty es divertida, interesante e icónica​​ ",
       "img": [
-        "https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.jpg",
+        "https://i.pinimg.com/originals/0f/30/37/0f3037aa1c66b5f08ae066e88703c3e5.jpg",
         "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/Hello-Kitty-Pizza---process-shot-8.jpg",
         "https://i.pinimg.com/736x/e7/df/72/e7df72f653a31b7df236441f1cfd0a8d--pizza-art-kitty-party.jpg"
       ],
@@ -344,7 +344,7 @@
 
     {
       "id": 14,
-      "name": "Pizza a la fantasma",
+      "name": "Pizza Sherk",
       "type": 0,
       "price": 20000,
       "reviews": 4,
@@ -372,7 +372,7 @@
       "img": [
         "https://t2.uc.ltmcdn.com/es/posts/1/9/5/como_hacer_una_pizza_de_halloween_51591_orig.jpg",
         "https://placeralplato.com/files/2016/10/pizza-recetas-halloween.jpeg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJ2SADBBp4UdhQRCfXIdvU2hn-1WeX4XmiA&usqp=CAU"
+        "https://img.freepik.com/fotos-premium/pizza-assustadora-de-halloween-decorada-com-fantasmas_82893-16715.jpg?w=2000"
       ],
       "comments": [
         {
@@ -453,6 +453,26 @@
         "https://cdn.colombia.com/gastronomia/2011/10/21/hamburguesas-terrorificas-2875.jpg",
         "https://img.cocinarico.es/2020-10/hamburguesas-de-halloween-1.jpg",
         "https://img-global.cpcdn.com/recipes/eec9f21200b18ba3/1200x630cq70/photo.jpg"
+      ],
+      "comments": [
+        {
+          "idUser": 0,
+          "comment": "",
+          "starts": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Papas con pollo",
+      "type": 1,
+      "price": 25000,
+      "reviews": 1,
+      "description": "Las mas deliciosas papas con el mas rico pollo",
+      "img": [
+        "https://mui.kitchen/__export/1612805094120/sites/muikitchen/img/2021/02/08/salchipapas.jpg_92171197.jpg",
+        "https://mui.kitchen/__export/1628600559320/sites/muikitchen/img/2021/08/10/papas_locas.jpg_1902800913.jpg",
+        "https://i.ytimg.com/vi/jbecwASeHHg/maxresdefault.jpg"
       ],
       "comments": [
         {
