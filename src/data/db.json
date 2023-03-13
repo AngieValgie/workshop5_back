@@ -441,6 +441,26 @@
           "starts": 3
         }
       ]
+    },
+    {
+      "id": 19,
+      "name": "Hamburguesa halloween",
+      "type": 1,
+      "price": 25000,
+      "reviews": 1,
+      "description": "El más rico sabor de la hamgurguesa condimentada con vegetales y queso, pero revirtiendo la posición del pan y poniendo más carne en su lugar, para aumentar la calidad de este delicioso plato.",
+      "img": [
+        "https://cdn.colombia.com/gastronomia/2011/10/21/hamburguesas-terrorificas-2875.jpg",
+        "https://img.cocinarico.es/2020-10/hamburguesas-de-halloween-1.jpg",
+        "https://img-global.cpcdn.com/recipes/eec9f21200b18ba3/1200x630cq70/photo.jpg"
+      ],
+      "comments": [
+        {
+          "idUser": 0,
+          "comment": "",
+          "starts": 3
+        }
+      ]
     }
   ],
   "compras": [
