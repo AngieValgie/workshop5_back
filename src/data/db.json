@@ -360,28 +360,9 @@
         }
       ]
     },
+
     {
       "id": 15,
-      "name": "Pizza Kitty",
-      "type": 0,
-      "price": 100000,
-      "reviews": 20,
-      "description": "La pizza Kitty es divertida, interesante e icónica​​ ",
-      "img": [
-        "https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.jpg",
-        "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/Hello-Kitty-Pizza---process-shot-8.jpg",
-        "https://i.pinimg.com/736x/e7/df/72/e7df72f653a31b7df236441f1cfd0a8d--pizza-art-kitty-party.jpg"
-      ],
-      "comments": [
-        {
-          "idUser": 0,
-          "comment": "Me parecio una pizza una Lokura",
-          "starts": 4
-        }
-      ]
-    },
-    {
-      "id": 16,
       "name": "Pizza a la fantasma",
       "type": 0,
       "price": 20000,
@@ -401,8 +382,8 @@
       ]
     },
     {
-      "id": 17,
-      "name": "Pizza a la fantasma",
+      "id": 16,
+      "name": "Pizza Asustadora",
       "type": 0,
       "price": 20000,
       "reviews": 4,
@@ -421,7 +402,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 17,
       "name": "Salchipapa extra queso",
       "type": 1,
       "price": 12000,
@@ -441,7 +422,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 18,
       "name": "Pizza Harry Potter",
       "type": 0,
       "price": 20000,
