@@ -195,11 +195,11 @@
     },
     {
       "id": 7,
-      "name": "Pizza Veggie",
+      "name": "Pizza Fit",
       "type": 0,
       "price": 18000,
       "reviews": 4,
-      "description": "Plato de papas y salchichas fritas, que se puede acompañar con mayonesa, salsa de tomate u otro tipo de salsas.",
+      "description": "la Pizza fit es excelente para la salud , tiene todos los complementos adecuados para la nutrición",
       "img": [
         "https://www.eatbetter.de/sites/eatbetter.de/files/styles/full_width_tablet_4_3/public/2020-04/Vegetarische_Pizza_mit_Auberginen_und_Zucchini_62169.jpg?h=4521fff0&itok=I2hGmFyn",
         "https://media-cdn.tripadvisor.com/media/photo-s/0e/e9/15/9a/vegi-pizza.jpg",
