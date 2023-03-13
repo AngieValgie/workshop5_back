@@ -290,7 +290,7 @@
       "img": [
         "https://thumbs.dreamstime.com/z/la-pizza-con-pimienta-de-los-salchichones-del-salami-y-chiles-rojos-miente-en-una-tabla-tabl%C3%B3n-al-lado-un-manojo-tomates-cuadrado-150456400.jpg",
         "https://www.foodandwine.com/thmb/CGXpgjWOgHWv9TsqyMoLyl5cYrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soppressata-pizza-with-calabrian-chile-hot-honey-FT-RECIPE0422-827abb3537834dbcb6ab0bbd6efece39.jpg",
-        "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTc4Mzg0MjcyODkzMDUz/spicy-pepperoni-chiles-pizza-wae-ftr.jpg"
+        "https://www.gastrolabweb.com/u/fotografias/m/2021/2/9/f1280x720-8328_140003_5050.jpg"
       ],
       "comments": [
         {
@@ -300,28 +300,9 @@
         }
       ]
     },
+
     {
       "id": 12,
-      "name": "Pizza Kitty",
-      "type": 0,
-      "price": 100000,
-      "reviews": 20,
-      "description": "La pizza Kitty es divertida, interesante e icónica​​ ",
-      "img": [
-        "https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.jpg",
-        "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/Hello-Kitty-Pizza---process-shot-8.jpg",
-        "https://i.pinimg.com/736x/e7/df/72/e7df72f653a31b7df236441f1cfd0a8d--pizza-art-kitty-party.jpg"
-      ],
-      "comments": [
-        {
-          "idUser": 0,
-          "comment": "Me parecio una pizza una Lokura",
-          "starts": 4
-        }
-      ]
-    },
-    {
-      "id": 13,
       "name": "hamburguesa de la casa",
       "type": 0,
       "price": 100000,
@@ -341,7 +322,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "Pizza Kitty",
       "type": 0,
       "price": 100000,
@@ -362,7 +343,7 @@
     },
 
     {
-      "id": 15,
+      "id": 14,
       "name": "Pizza a la fantasma",
       "type": 0,
       "price": 20000,
@@ -382,7 +363,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 15,
       "name": "Pizza Asustadora",
       "type": 0,
       "price": 20000,
@@ -402,7 +383,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 16,
       "name": "Salchipapa extra queso",
       "type": 1,
       "price": 12000,
@@ -422,7 +403,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 17,
       "name": "Pizza Harry Potter",
       "type": 0,
       "price": 20000,
@@ -438,6 +419,26 @@
           "idUser": 0,
           "comment": "Me parecio una pizza una Lokura",
           "starts": 4
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Hamgurguesa column reverse",
+      "type": 1,
+      "price": 25000,
+      "reviews": 1,
+      "description": "El más rico sabor de la hamgurguesa condimentada con vegetales y queso, pero revirtiendo la posición del pan y poniendo más carne en su lugar, para aumentar la calidad de este delicioso plato.",
+      "img": [
+        "https://cdn.upsocl.com/wp-content/uploads/2020/11/burguerking-hamburguesa-japon-carne-pan0001.jpg",
+        "https://cdn.upsocl.com/wp-content/uploads/2020/11/burguerking-hamburguesa-japon-carne-pan0003.jpg",
+        "https://cdn.upsocl.com/wp-content/uploads/2020/11/55-burguerking-hamburguesa-japon-carne-pan.jpg"
+      ],
+      "comments": [
+        {
+          "idUser": 0,
+          "comment": "",
+          "starts": 3
         }
       ]
     }
