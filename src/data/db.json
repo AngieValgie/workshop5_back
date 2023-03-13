@@ -292,26 +292,6 @@
           "starts": 3
         }
       ]
-    },
-    {
-      "id": 11,
-      "name": "Pizza Mexicana",
-      "type": 1,
-      "price": 12000,
-      "reviews": 1,
-      "description": "Todo lo que puedes esperar del exquisito sabor de una pizza con el rico sabor del picante natural de los mejores chiles mexicanos.",
-      "img": [
-        "https://thumbs.dreamstime.com/z/la-pizza-con-pimienta-de-los-salchichones-del-salami-y-chiles-rojos-miente-en-una-tabla-tabl%C3%B3n-al-lado-un-manojo-tomates-cuadrado-150456400.jpg",
-        "https://www.foodandwine.com/thmb/CGXpgjWOgHWv9TsqyMoLyl5cYrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soppressata-pizza-with-calabrian-chile-hot-honey-FT-RECIPE0422-827abb3537834dbcb6ab0bbd6efece39.jpg",
-        "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTc4Mzg0MjcyODkzMDUz/spicy-pepperoni-chiles-pizza-wae-ftr.jpg"
-      ],
-      "comments": [
-        {
-          "idUser": 0,
-          "comment": "",
-          "starts": 3
-        }
-      ]
     }
     
     
