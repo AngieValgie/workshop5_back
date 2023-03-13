@@ -13,6 +13,13 @@
       "passWord": "Esteban1409.",
       "img": "https://images.indianexpress.com/2022/04/GettyImages-men-health-1200.jpg",
       "id": 1
+    },
+    {
+      "nomUser": "Andres",
+      "email": "andres@gmail.com",
+      "passWord": "Esteban1409.",
+      "img": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_.jpg",
+      "id": 2
     }
   ],
   "ofertas": [
@@ -201,9 +208,9 @@
       "reviews": 4,
       "description": "la Pizza fit es excelente para la salud , tiene todos los complementos adecuados para la nutrición",
       "img": [
-        "https://www.eatbetter.de/sites/eatbetter.de/files/styles/full_width_tablet_4_3/public/2020-04/Vegetarische_Pizza_mit_Auberginen_und_Zucchini_62169.jpg?h=4521fff0&itok=I2hGmFyn",
-        "https://media-cdn.tripadvisor.com/media/photo-s/0e/e9/15/9a/vegi-pizza.jpg",
-        "https://i2-prod.mirror.co.uk/incoming/article26706373.ece/ALTERNATES/s1200c/0_dominos-veggie-pesto-pizza.jpg"
+        "https://i.blogs.es/fff4ca/pizzas/1366_2000.jpg",
+        "https://cdn0.recetasgratis.net/es/posts/1/9/3/pizza_casera_31391_600_square.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eataly_Las_Vegas_-_Feb_2019_-_Sarah_Stierch_12.jpg"
       ],
       "comments": [
         {
@@ -297,6 +304,21 @@
         }
       ],
       "id": 5
+    },
+    {
+      "nomUser": "Andres",
+      "address": "Carrera 92 #44-71, Medellín, Antioquia, Colombia",
+      "products": [
+        {
+          "id": "0",
+          "cantidad": 2
+        },
+        {
+          "id": "4",
+          "cantidad": 3
+        }
+      ],
+      "id": 6
     }
   ]
 }
